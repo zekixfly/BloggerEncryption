@@ -1,5 +1,3 @@
-6. 並將以下的 JS 嵌入到您 Blogger 中，
-
 # Google Blogger 文章加密系統
 
 - https://zekixfly.github.io/BloggerEncryption/index.html
@@ -11,7 +9,7 @@
 
 ## 嵌入 JS
 
-請先嵌入以下的 JS 到您 Blogger 中，嵌入方式為在 Blogger 後台的 "主題">"編輯 HTML"，將本 JS 嵌入到<head>...</head>之中。
+請先嵌入以下的 JS 到您 Blogger 中，嵌入方式為在 Blogger 後台的 "主題">"編輯 HTML"，將本 JS 嵌入到`<head>...</head>`之中。
 
 ```js
 <script
